@@ -13,6 +13,8 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="35" alt="rabbitmq logo"  />
