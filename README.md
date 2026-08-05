@@ -17,9 +17,13 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="35" alt="supabase logo"  />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="35" alt="rabbitmq logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="35" alt="kubernetes logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
   <img width="14" />
