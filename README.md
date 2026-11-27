@@ -5,8 +5,6 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="35" alt="selenium logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=gcp" height="35" alt="googlecloud logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="35" alt="cloudflare logo"  />
