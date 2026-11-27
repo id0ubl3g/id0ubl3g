@@ -9,6 +9,8 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=gcp" height="35" alt="googlecloud logo"  />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="35" alt="cloudflare logo"  />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
